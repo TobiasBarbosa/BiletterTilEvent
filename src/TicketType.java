@@ -1,0 +1,5 @@
+public enum TicketType {
+    TICKET_DOOR,
+    TICKET_PRESALE,
+    TICKET_PRESALE_STUDENT_DISCOUNT;
+}
